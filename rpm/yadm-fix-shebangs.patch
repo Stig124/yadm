@@ -1,0 +1,31 @@
+diff --git a/contrib/hooks/encrypt_with_checksums/post_encrypt b/contrib/hooks/encrypt_with_checksums/post_encrypt
+index 5bb7cde..93f4798 100755
+--- a/contrib/hooks/encrypt_with_checksums/post_encrypt
++++ b/contrib/hooks/encrypt_with_checksums/post_encrypt
+@@ -1,4 +1,4 @@
+-#!/usr/bin/env bash
++#!/usr/bin/bash
+ 
+ # yadm - Yet Another Dotfiles Manager
+ # Copyright (C) 2015-2021 Tim Byrne and Martin Zuther
+diff --git a/contrib/hooks/encrypt_with_checksums/post_list b/contrib/hooks/encrypt_with_checksums/post_list
+index e4c57df..6b7478d 100755
+--- a/contrib/hooks/encrypt_with_checksums/post_list
++++ b/contrib/hooks/encrypt_with_checksums/post_list
+@@ -1,4 +1,4 @@
+-#!/usr/bin/env bash
++#!/usr/bin/bash
+ 
+ # yadm - Yet Another Dotfiles Manager
+ # Copyright (C) 2015-2021 Tim Byrne and Martin Zuther
+diff --git a/contrib/hooks/encrypt_with_checksums/post_status b/contrib/hooks/encrypt_with_checksums/post_status
+index d8778c1..5bbfafa 100755
+--- a/contrib/hooks/encrypt_with_checksums/post_status
++++ b/contrib/hooks/encrypt_with_checksums/post_status
+@@ -1,4 +1,4 @@
+-#!/usr/bin/env bash
++#!/usr/bin/bash
+ 
+ # yadm - Yet Another Dotfiles Manager
+ # Copyright (C) 2015-2021 Tim Byrne and Martin Zuther
+ 
